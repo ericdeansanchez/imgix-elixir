@@ -37,6 +37,7 @@ defmodule Imgix.MixProject do
       files:
         ~w(lib .formatter.exs mix.exs README* LICENSE* CHANGELOG*),
       licenses: ["MIT"],
+      links: %{"GitHub" => "https://github.com/imgix/img"}
     ]
   end
 end
